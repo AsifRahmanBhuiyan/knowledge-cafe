@@ -18,7 +18,7 @@ function App() {
 
       <Header></Header>
 
-      <div className=' md:flex container mx-auto'>
+      <div className=' md:flex container mx-auto gap-6'>
         <Blogs handleBookmarkButton={handleBookmarkButton}></Blogs>
         <Bookmarks bookmarks={bookmarks}></Bookmarks>
       </div>
