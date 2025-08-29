@@ -1,3 +1,4 @@
+import React from 'react'
 import profile_pic from '../../assets/ProfilePicture.png'
 
 const Header = () => {
@@ -10,3 +11,4 @@ const Header = () => {
 };
 
 export default Header;
+

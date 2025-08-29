@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "cover_img": "https://picsum.photos/800/400?random=1",
     "authors_img": "https://randomuser.me/api/portraits/women/11.jpg",
     "author_name": "Sophia Turner",
@@ -9,6 +10,7 @@
     "hashtags": ["#Architecture", "#3DDesign", "#FutureTech"]
   },
   {
+    "id": 2,
     "cover_img": "https://picsum.photos/800/400?random=2",
     "authors_img": "https://randomuser.me/api/portraits/men/23.jpg",
     "author_name": "Ethan Walker",
@@ -18,6 +20,7 @@
     "hashtags": ["#InteriorDesign", "#Trends2025", "#HomeDecor"]
   },
   {
+    "id": 3,
     "cover_img": "https://picsum.photos/800/400?random=3",
     "authors_img": "https://randomuser.me/api/portraits/women/35.jpg",
     "author_name": "Amelia Green",
@@ -27,6 +30,7 @@
     "hashtags": ["#Minimalism", "#ModernHomes", "#Design"]
   },
   {
+    "id": 4,
     "cover_img": "https://picsum.photos/800/400?random=4",
     "authors_img": "https://randomuser.me/api/portraits/men/47.jpg",
     "author_name": "Liam Carter",
@@ -36,6 +40,7 @@
     "hashtags": ["#3DFloorPlan", "#Tips", "#Visualization"]
   },
   {
+    "id": 5,
     "cover_img": "https://picsum.photos/800/400?random=5",
     "authors_img": "https://randomuser.me/api/portraits/women/52.jpg",
     "author_name": "Olivia Scott",
@@ -45,6 +50,7 @@
     "hashtags": ["#Lighting", "#InteriorDesign", "#HomeVibes"]
   },
   {
+    "id": 6,
     "cover_img": "https://picsum.photos/800/400?random=6",
     "authors_img": "https://randomuser.me/api/portraits/men/61.jpg",
     "author_name": "Noah Wilson",
@@ -54,6 +60,7 @@
     "hashtags": ["#BedroomDesign", "#CozyLiving", "#InteriorTrends"]
   },
   {
+    "id": 7,
     "cover_img": "https://picsum.photos/800/400?random=7",
     "authors_img": "https://randomuser.me/api/portraits/women/73.jpg",
     "author_name": "Isabella Brown",
@@ -63,6 +70,7 @@
     "hashtags": ["#SustainableDesign", "#EcoFriendly", "#Architecture"]
   },
   {
+    "id": 8,
     "cover_img": "https://picsum.photos/800/400?random=8",
     "authors_img": "https://randomuser.me/api/portraits/men/85.jpg",
     "author_name": "Mason Edwards",
@@ -72,6 +80,7 @@
     "hashtags": ["#ExteriorDesign", "#Architecture", "#CurbAppeal"]
   },
   {
+    "id": 9,
     "cover_img": "https://picsum.photos/800/400?random=9",
     "authors_img": "https://randomuser.me/api/portraits/women/92.jpg",
     "author_name": "Emily Johnson",
@@ -81,6 +90,7 @@
     "hashtags": ["#Landscaping", "#GardenDesign", "#OutdoorLiving"]
   },
   {
+    "id": 10,
     "cover_img": "https://picsum.photos/800/400?random=10",
     "authors_img": "https://randomuser.me/api/portraits/men/99.jpg",
     "author_name": "James Miller",
