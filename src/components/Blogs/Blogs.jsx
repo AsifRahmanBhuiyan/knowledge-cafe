@@ -3,7 +3,7 @@ import Blog from "../Blog/Blog";
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const Blogs = ({handleBookmarkButton}) => {
+const Blogs = ({handleBookmarkButton, handleMarkAsRead}) => {
 
     const [blogs, setBlogs] = useState([])
 
@@ -17,7 +17,7 @@ const Blogs = ({handleBookmarkButton}) => {
         <div className="md:w-2/3">
             <div className="flex flex-col gap-5">
                 {
-                    blogs.map(blog => <Blog handleBookmarkButton={handleBookmarkButton} blog={blog} key={blog.id}></Blog>)
+                    blogs.map(blog => <Blog handleBookmarkButton={handleBookmarkButton} handleMarkAsRead={handleMarkAsRead} blog={blog} key={blog.id}></Blog>)
 
                 }
             </div>
@@ -26,7 +26,8 @@ const Blogs = ({handleBookmarkButton}) => {
 };
 
 Blogs.propTypes = {
-    handleBookmarkButton: PropTypes.func
+    handleBookmarkButton: PropTypes.func,
+    handleMarkAsRead: PropTypes.func
 }
 
 

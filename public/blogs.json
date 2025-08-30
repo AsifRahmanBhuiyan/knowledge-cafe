@@ -5,7 +5,7 @@
     "authors_img": "https://randomuser.me/api/portraits/women/11.jpg",
     "author_name": "Sophia Turner",
     "posting_date": "2025-08-10",
-    "blog_duration": "6 min read",
+    "blog_duration": "8",
     "blog_title": "The Future of 3D Architectural Visualization",
     "hashtags": ["#Architecture", "#3DDesign", "#FutureTech"]
   },
@@ -15,7 +15,7 @@
     "authors_img": "https://randomuser.me/api/portraits/men/23.jpg",
     "author_name": "Ethan Walker",
     "posting_date": "2025-08-12",
-    "blog_duration": "4 min read",
+    "blog_duration": "4",
     "blog_title": "Top 5 Interior Design Trends in 2025",
     "hashtags": ["#InteriorDesign", "#Trends2025", "#HomeDecor"]
   },
@@ -25,7 +25,7 @@
     "authors_img": "https://randomuser.me/api/portraits/women/35.jpg",
     "author_name": "Amelia Green",
     "posting_date": "2025-08-14",
-    "blog_duration": "7 min read",
+    "blog_duration": "7",
     "blog_title": "Why Minimalism is Dominating Modern Homes",
     "hashtags": ["#Minimalism", "#ModernHomes", "#Design"]
   },
@@ -35,7 +35,7 @@
     "authors_img": "https://randomuser.me/api/portraits/men/47.jpg",
     "author_name": "Liam Carter",
     "posting_date": "2025-08-15",
-    "blog_duration": "5 min read",
+    "blog_duration": "5",
     "blog_title": "10 Tips for Creating Stunning 3D Floor Plans",
     "hashtags": ["#3DFloorPlan", "#Tips", "#Visualization"]
   },
@@ -45,7 +45,7 @@
     "authors_img": "https://randomuser.me/api/portraits/women/52.jpg",
     "author_name": "Olivia Scott",
     "posting_date": "2025-08-16",
-    "blog_duration": "6 min read",
+    "blog_duration": "6",
     "blog_title": "How Lighting Changes Interior Atmosphere",
     "hashtags": ["#Lighting", "#InteriorDesign", "#HomeVibes"]
   },
@@ -55,7 +55,7 @@
     "authors_img": "https://randomuser.me/api/portraits/men/61.jpg",
     "author_name": "Noah Wilson",
     "posting_date": "2025-08-18",
-    "blog_duration": "8 min read",
+    "blog_duration": "8",
     "blog_title": "The Art of Designing Cozy Bedrooms",
     "hashtags": ["#BedroomDesign", "#CozyLiving", "#InteriorTrends"]
   },
@@ -65,7 +65,7 @@
     "authors_img": "https://randomuser.me/api/portraits/women/73.jpg",
     "author_name": "Isabella Brown",
     "posting_date": "2025-08-19",
-    "blog_duration": "5 min read",
+    "blog_duration": "5",
     "blog_title": "Eco-Friendly Materials in Architecture",
     "hashtags": ["#SustainableDesign", "#EcoFriendly", "#Architecture"]
   },
@@ -75,7 +75,7 @@
     "authors_img": "https://randomuser.me/api/portraits/men/85.jpg",
     "author_name": "Mason Edwards",
     "posting_date": "2025-08-21",
-    "blog_duration": "6 min read",
+    "blog_duration": "6",
     "blog_title": "Why Exterior Design Defines First Impressions",
     "hashtags": ["#ExteriorDesign", "#Architecture", "#CurbAppeal"]
   },
@@ -85,7 +85,7 @@
     "authors_img": "https://randomuser.me/api/portraits/women/92.jpg",
     "author_name": "Emily Johnson",
     "posting_date": "2025-08-23",
-    "blog_duration": "7 min read",
+    "blog_duration": "7",
     "blog_title": "Creative Landscaping Ideas for Small Yards",
     "hashtags": ["#Landscaping", "#GardenDesign", "#OutdoorLiving"]
   },
@@ -95,7 +95,7 @@
     "authors_img": "https://randomuser.me/api/portraits/men/99.jpg",
     "author_name": "James Miller",
     "posting_date": "2025-08-25",
-    "blog_duration": "5 min read",
+    "blog_duration": "5",
     "blog_title": "How Technology is Shaping Smart Homes",
     "hashtags": ["#SmartHomes", "#Technology", "#FutureLiving"]
   }
