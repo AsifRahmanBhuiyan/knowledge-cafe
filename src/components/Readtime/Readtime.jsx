@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 const Readtime = ({readtime}) => {
     return (
         <div>
-            <h3>Spent time on read: {readtime}</h3>
+            <h3 className=' text-white'>Spent time on read: {readtime}</h3>
         </div>
     );
 };
