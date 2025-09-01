@@ -16,7 +16,7 @@ function App() {
 
   const handleMarkAsRead = (time) => {
     console.log("mark as read");
-    
+
     const newReadtime = readtime + parseInt(time);
     setReadtime(newReadtime);
   }
@@ -25,15 +25,17 @@ function App() {
   return (
     <>
 
-      <Header></Header>
+      <div className=' bg-black'>
+        <Header></Header>
 
-      <div className=' md:flex grow container mx-auto gap-6'>
-        <Blogs handleBookmarkButton={handleBookmarkButton} handleMarkAsRead={handleMarkAsRead}></Blogs>
-        <div>
-          <Readtime readtime={readtime}></Readtime>
-          <Bookmarks bookmarks={bookmarks}></Bookmarks>
+        <div className=' md:flex grow container mx-auto gap-6'>
+          <Blogs handleBookmarkButton={handleBookmarkButton} handleMarkAsRead={handleMarkAsRead}></Blogs>
+          <div>
+            <Readtime readtime={readtime}></Readtime>
+            <Bookmarks bookmarks={bookmarks}></Bookmarks>
+          </div>
+
         </div>
-
       </div>
 
     </>
